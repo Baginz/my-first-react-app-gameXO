@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-first-react-app-gameXO/static/css/main.721d1d57.chunk.css",
+    "main.js": "/my-first-react-app-gameXO/static/js/main.e8a0b813.chunk.js",
+    "main.js.map": "/my-first-react-app-gameXO/static/js/main.e8a0b813.chunk.js.map",
+    "runtime-main.js": "/my-first-react-app-gameXO/static/js/runtime-main.c86aae34.js",
+    "runtime-main.js.map": "/my-first-react-app-gameXO/static/js/runtime-main.c86aae34.js.map",
+    "static/js/2.245f46f3.chunk.js": "/my-first-react-app-gameXO/static/js/2.245f46f3.chunk.js",
+    "static/js/2.245f46f3.chunk.js.map": "/my-first-react-app-gameXO/static/js/2.245f46f3.chunk.js.map",
+    "index.html": "/my-first-react-app-gameXO/index.html",
+    "static/css/main.721d1d57.chunk.css.map": "/my-first-react-app-gameXO/static/css/main.721d1d57.chunk.css.map",
+    "static/js/2.245f46f3.chunk.js.LICENSE.txt": "/my-first-react-app-gameXO/static/js/2.245f46f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c86aae34.js",
+    "static/js/2.245f46f3.chunk.js",
+    "static/css/main.721d1d57.chunk.css",
+    "static/js/main.e8a0b813.chunk.js"
+  ]
+}
